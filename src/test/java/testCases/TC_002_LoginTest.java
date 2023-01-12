@@ -7,7 +7,7 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import testBase.BaseClass;
-
+//modification
 public class TC_002_LoginTest extends BaseClass {
     @Test(groups= {"Sanity","Regression"})
 	public void loginPage() {

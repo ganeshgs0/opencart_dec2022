@@ -11,9 +11,9 @@
 
 		
 		<classes>
-			<class name="testCases.TC_002_LoginTest"/>
-			<!-- <class name="testCases.TestAccountRegistration"/> 
-			<class name="testCases.TC_003_LoginDataDriven_Test" /> -->
+			<!-- <class name="testCases.TC_002_LoginTest"/>
+			 <class name="testCases.TestAccountRegistration"/> -->
+			<class name="testCases.TC_003_LoginDataDriven_Test" /> 
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
